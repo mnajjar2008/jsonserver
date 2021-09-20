@@ -193,35 +193,6 @@
       "text": "I caught a world-record-breaking trout here on my last visit.",
       "author": "McKenzie Sebastian",
       "date": "2019-02-18T18:12Z"
-    },
-    {
-      "campsiteId": 0,
-      "rating": "2",
-      "author": "John",
-      "text": "Great place.",
-      "date": "2021-07-05T03:45:28.625Z",
-      "id": 20
-    },
-    {
-      "campsiteId": 0,
-      "author": "cvf",
-      "text": "bcb",
-      "date": "2021-08-16T20:30:35.843Z",
-      "id": 21
-    },
-    {
-      "campsiteId": 0,
-      "author": "aa",
-      "text": "a",
-      "date": "2021-08-16T20:31:08.040Z",
-      "id": 22
-    },
-    {
-      "campsiteId": 0,
-      "author": "aafsaf",
-      "text": "asfasf",
-      "date": "2021-08-16T20:31:49.641Z",
-      "id": 23
     }
   ],
   "partners": [
@@ -275,13 +246,13 @@
       "feedback": "test"
     },
     {
-      "firstName": "hicham",
+      "firstName": "john",
       "lastName": "asfasf",
       "phoneNum": "234214214214",
-      "email": "mnajjar20080@gmail.com",
+      "email": "sam@gmail.com",
       "agree": false,
       "contactType": "Phone",
-      "feedback": "afasfasfsaf",
+      "feedback": "working",
       "id": 1
     }
   ]
